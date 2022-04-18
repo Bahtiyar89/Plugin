@@ -1,0 +1,6 @@
+module Pods_lga {
+  umbrella header "Pods-lga-umbrella.h"
+
+  export *
+  module * { export * }
+}

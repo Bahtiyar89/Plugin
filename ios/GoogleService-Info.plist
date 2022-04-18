@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>19197942355-46m7jmdbnqv1nfj26pt24pneb9o75c29.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.19197942355-46m7jmdbnqv1nfj26pt24pneb9o75c29</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBI7zkz_eBRgzBG1m7WaK9Q9q-bsytq1gc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>19197942355</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>no.muuh.landstreff-stavanger-2019</string>
+	<key>PROJECT_ID</key>
+	<string>lga---ls-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lga---ls-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:19197942355:ios:5d25473f331879dd2004a6</string>
+</dict>
+</plist>

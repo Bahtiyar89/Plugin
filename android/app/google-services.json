@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "19197942355",
+    "project_id": "lga---ls-app",
+    "storage_bucket": "lga---ls-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19197942355:android:229148cbd85efd522004a6",
+        "android_client_info": {
+          "package_name": "com.lga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19197942355-t8s113aj6e7570ikj8tmnkcovrl2oueg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8iEC2mQ4PCho1oRw4Pg5fd-WQI6739o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19197942355-t8s113aj6e7570ikj8tmnkcovrl2oueg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19197942355-46m7jmdbnqv1nfj26pt24pneb9o75c29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "no.muuh.landstreff-stavanger-2019"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

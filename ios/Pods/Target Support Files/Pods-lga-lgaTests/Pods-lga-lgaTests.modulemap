@@ -1,0 +1,6 @@
+module Pods_lga_lgaTests {
+  umbrella header "Pods-lga-lgaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
